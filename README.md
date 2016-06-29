@@ -6,6 +6,6 @@ Dockerfile defined based on
 ## Run
 
 ```
-docker run -v `pwd`:/wiki -p 4567:80 gollum
+docker run -v `pwd`:/wiki -p 4567:80 chbrandt/gollum
 ```
 
