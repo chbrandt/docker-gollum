@@ -1,1 +1,1 @@
-[lkjh](/lkjh)
+[lkjh](lkjh)
