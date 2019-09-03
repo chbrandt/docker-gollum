@@ -1,1 +1,1 @@
-[lkjh](/ljh.md)
+[lkjh](/lkjh)
